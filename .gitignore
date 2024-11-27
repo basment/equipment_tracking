@@ -1,0 +1,30 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/ServiceDefinitions.json
+
+# Miscellaneous
+*.log
+pubspec.lock
+
+# IntelliJ related files
+.idea/
+
+# VS Code related files
+.vscode/
+
+# MacOS
+macos/Flutter/ephemeral/
+
+# Firebase configuration files (if you wish to keep them private)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
